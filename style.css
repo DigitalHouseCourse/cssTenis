@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(173, 216, 230)
+}
+
+.cartao__imagem{
+    height: 390px;
+    border-radius: 4%;
+    text-align: center;
+    
+}
+
+.cartao{
+    width: 270px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-left: 40%;
+    text-align: left;
+
+}
+
+p{
+    font-size: 15px;
+}
+
+.subtitulo{
+    font-size: 20px;
+}
+
+.botao{
+    color: white;
+    border-radius: 10px;
+    height: 38px;
+    width: 100%;
+    background-color: black;
+}
